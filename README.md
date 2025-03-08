@@ -59,7 +59,3 @@ The application utilizes `calories.csv` and `exercise.csv` datasets, which conta
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
